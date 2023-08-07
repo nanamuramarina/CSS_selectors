@@ -10,6 +10,14 @@ body {
     color: greenyellow;
 } */
 
+section {
+    color: aqua;
+}
+
+form {
+    color: greenyellow;
+}
+
 button, input {
     color: inherit;
 }
